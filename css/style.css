@@ -10,26 +10,6 @@ font-family: 'Poppins', sans-serif;
     display: none;
 }
 
-@font-face {
-    font-family: Poppins;
-    src: url(/assets/Poppins/Poppins-Regular.ttf);
-}
-
-@font-face {
-    font-family: mlm;
-    src: url(/assets/mlm/FMLPY0BTT.ttf);
-}
-
-@font-face {
-    font-family: Poppins-bold-semi;
-    src: url(/assets/Poppins/Poppins-SemiBold.ttf);
-}
-
-@font-face {
-    font-family: Poppins-bold;
-    src: url(/assets/Poppins/Poppins-Bold.ttf);
-}
-
 /* ------ Home start ------ */
 
 .home-sect {
