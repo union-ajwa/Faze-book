@@ -1,8 +1,4 @@
-@font-face {
-    font-family: Poppins;
-    src: url(/assets/Poppins/Poppins-Regular.ttf);
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800;900&display=swap');
 @font-face {
     font-family: Poppins-bold-semi;
     src: url(/assets/Poppins/Poppins-SemiBold.ttf);
