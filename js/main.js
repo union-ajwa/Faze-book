@@ -21,21 +21,21 @@ const stories = [
         id: 1,
         title: 'Clock of hagatha',
         desc: 'A horror and thriller story for all those who wants to fear to death',
-        link: "stories/story-1.html",
+        link: "/stories/story-1.html",
         class: "mlm"
     },
     {
         id: 2,
         title: 'ആരാണാ കൊലയാളി?',
         desc: "A crime scene thriller forensic horror story for detective story readers part-1",
-        link: "stories/killer-who/who-killer.html",
+        link: "/stories/killer-who/who-killer.html",
         class: "mlm"
     },
     {
         id: 5,
         title: 'ആരാണാ കൊലയാളി?',
         desc: 'A crime scene thriller forensic horror story for detective story readers part-2',
-        link: "stories/killer-who/killer-2.html",
+        link: "/stories/killer-who/killer-2.html",
         class: "mlm"
     }
 ]
